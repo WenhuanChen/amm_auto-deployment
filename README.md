@@ -1,5 +1,3 @@
-Got it! Here's the AMM automated deployment tutorial in Markdown format:
-
 markdown
 Copy code
 # AMM Automated Deployment Tutorial
@@ -22,7 +20,7 @@ Before you begin, ensure you have the following:
 
 Begin by writing your AMM contract in Solidity. Below is a basic example:
 
-solidity
+```solidity
 // AMM contract example
 pragma solidity ^0.8.0;
 
@@ -72,3 +70,8 @@ vbnet
 Copy code
 
 This Markdown tutorial provides a structured guide on deploying an AMM contract on Ethereum, suitable for developers looking to deploy their AMM solutions.
+
+
+
+
+
